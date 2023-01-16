@@ -1,9 +1,8 @@
+import RFIDData from "./Page/Home/home";
 function App() {
   return (
     <div className="App">
-      <div>
-        k xa hajur
-      </div>
+      <RFIDData />
     </div>
   );
 }
